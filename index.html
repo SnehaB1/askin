@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+		<title>Askin App</title>
+		<meta name="description" content=""/>
+		<meta name="viewport" content="width=device-width"/>		  		
+  		<link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">  		
+		<link rel="stylesheet" href="assets/CSS/style.css">		
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">   
+    
+        
+	</head>
+	<body ng-app="ngApp" ng-controller="myController">
+
+		<!--[if lt IE 7]>
+        <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+         <![endif]-->
+
+          <!--[if lt IE 9]>
+              <script src="scripts/vendor/es5-shim.min.js"></script>
+              <script src="scripts/vendor/json3.min.js"></script>
+          <![endif]-->
+
+          <header>
+            <div class="header__bg"></div>
+            <h1>INSPECTION DATA</h1>
+        </header>
+
+        <div class="container">
+
+          	<table class="table table-striped" style="width:100%">
+		  	<thead>
+			    <tr>
+			      <th rowspan="2">MACHINE</th>		      
+			      <th rowspan="2">OPERATOR</th>
+			      <th rowspan="2">Time Taken</th>
+			      <th scope="col" colspan="3" style="text-align:center;">Checkpoint 1</th>
+			      <th scope="col" colspan="3" style="text-align:center;">Checkpoint 2</th>
+			      <th scope="col" colspan="3" style="text-align:center;">Checkpoint 3</th>
+			      <th scope="col" colspan="3" style="text-align:center;">Checkpoint 4</th>
+			      <th scope="col" colspan="3" style="text-align:center;">Checkpoint 5</th>
+			      <th scope="col" colspan="3" style="text-align:center;">Checkpoint 6</th>
+			 	</tr>
+				  <tr>
+				  	  <th scope="col">ID</th>
+				      <th scope="col">MAX</th>
+				      <th scope="col">MIN</th>
+				      <th scope="col">ID</th>
+				      <th scope="col">MAX</th>
+				      <th scope="col">MIN</th>
+				      <th scope="col">ID</th>
+				      <th scope="col">MAX</th>
+				      <th scope="col">MIN</th>
+				      <th scope="col">ID</th>
+				      <th scope="col">MAX</th>
+				      <th scope="col">MIN</th>
+				      <th scope="col">ID</th>
+				      <th scope="col">MAX</th>
+				      <th scope="col">MIN</th>
+				      <th scope="col">ID</th>
+				      <th scope="col">MAX</th>
+				      <th scope="col">MIN</th>      
+				      
+				    </tr>
+		    
+
+		  		</thead>
+			  <tbody ng-repeat="x in xList.slice(((currentPage-1)*itemsPerPage), ((currentPage)*itemsPerPage))">
+			    <tr>
+			      <td>{{x.machine}}</td>			      
+			      <td>{{x.operator}}</td>
+			      <td>{{x.timeTaken}}</td>
+			      <td>{{x.checkpoints[0].instrumentId}}</td>
+			      <td>{{x.checkpoints[0].max}}</td>
+			      <td>{{x.checkpoints[0].min}}</td>
+			      <td>{{x.checkpoints[1].instrumentId}}</td>
+			      <td>{{x.checkpoints[1].max}}</td>
+			      <td>{{x.checkpoints[1].min}}</td>
+			      <td>{{x.checkpoints[2].instrumentId}}</td>
+			      <td>{{x.checkpoints[2].max}}</td>
+			      <td>{{x.checkpoints[2].min}}</td>
+			      <td>{{x.checkpoints[3].instrumentId}}</td>
+			      <td>{{x.checkpoints[3].max}}</td>
+			      <td>{{x.checkpoints[3].min}}</td>
+			      <td>{{x.checkpoints[4].instrumentId}}</td>
+			      <td>{{x.checkpoints[4].max}}</td>
+			      <td>{{x.checkpoints[4].min}}</td>
+			      <td>{{x.checkpoints[5].instrumentId}}</td>
+			      <td>{{x.checkpoints[5].max}}</td>
+			      <td>{{x.checkpoints[5].min}}</td>
+			      
+			      
+			    </tr>
+			  </tbody>
+		</table>
+
+		View <select ng-model="viewby" ng-change="setItemsPerPage(viewby)"><option>3</option><option>5</option><option>10</option><option>20</option><option>30</option><option>40</option><option>50</option></select> records at a time.
+
+	    <pagination total-items="totalItems" ng-model="currentPage" ng-change="pageChanged()" class="pagination" items-per-page="itemsPerPage">
+	    </pagination>
+		</div>
+
+        <script type="text/javascript" src="scripts/jquery.min.js"></script>        
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.13/angular.min.js"></script> 
+        <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="scripts/app.js"></script>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
+        <script src="//angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.11.0.js"></script>
+     
+
+	</body>
+</html>

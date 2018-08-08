@@ -1,0 +1,5271 @@
+[
+  {
+    "timeTaken": 61,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "unit": "mm",
+        "type": "Range",
+        "max": 42.2,
+        "frequency": 2,
+        "min": 42,
+        "name": "Length",
+        "instrumentId": "SM/SG/07  ",
+        "id": "LmdD05e6QJzWDcQ2SOB1_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "ccx5YKfZcyop3rRJR4vG",
+        "samples": {
+          "0": "42.11",
+          "1": "42.15",
+          "2": "42.15"
+        }
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "s5zdzFGc7ZpFfzPqCLE3",
+        "samples": {
+          "0": "27.26",
+          "1": "27.08",
+          "2": "27.13"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 27.6,
+        "frequency": 2,
+        "min": 26.4,
+        "name": "Core unit Length",
+        "instrumentId": "SM/SG/08  ",
+        "id": "4NS2dejBjL0uld555J7Q_1"
+      },
+      {
+        "instrumentId": "AS/MM/04",
+        "id": "2Du8EnaZF68QC6dtH4mu_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "846yJlX96QTo1DwaqAt6",
+            "instrumentGroupName": "MICROMETER"
+          }
+        ],
+        "instrument": "UcBui6ZDS9HDfPVYwNcW",
+        "samples": {
+          "0": "49.99",
+          "1": "49.98",
+          "2": "49.99"
+        },
+        "unit": "mg",
+        "type": "Range",
+        "max": 50.05,
+        "frequency": 2,
+        "min": 49.95,
+        "name": "Core Unit OD"
+      },
+      {
+        "instrumentId": "SM/SG/01  ",
+        "id": "MYx9AuwWq44CZvUVgb72_3",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "WZn6g8rbMHhLIbqYnUsR",
+        "samples": {
+          "0": "0.05",
+          "1": "0.06",
+          "2": "0.06"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 0.1,
+        "frequency": 2,
+        "min": 0,
+        "name": "Run out \n(A B)"
+      },
+      {
+        "name": "Total Length",
+        "instrumentId": "AS/DHG/01",
+        "id": "3u5DTigECXWUxdhFkHJF_4",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "6JGyIVlaOfsjEinRfTZd",
+            "instrumentGroupName": "HEIGHT GAUGE"
+          }
+        ],
+        "instrument": "ymx8jOj7o4YkBEwY3s7P",
+        "samples": {
+          "0": "100.26",
+          "1": "100.38",
+          "2": "100.31"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 100.4,
+        "frequency": 2,
+        "min": 100.2
+      },
+      {
+        "name": "Torque",
+        "instrumentId": "AS/TW/01",
+        "id": "SGmWWoAo3VxJ1czDUeWh_5",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "Rz4mDAs2pWe07vyiMr7F",
+            "instrumentGroupName": "TORQUE WRENCH"
+          }
+        ],
+        "instrument": "GIWzkU0qTw7rdUlbiH5v",
+        "samples": {
+          "0": "29.00",
+          "1": "28.00",
+          "2": "28.00"
+        },
+        "unit": "Nm",
+        "type": "Range",
+        "max": 40,
+        "frequency": 2,
+        "min": 18.6
+      }
+    ],
+    "machine": "HYD. PN. PRESS - 1",
+    "inspectedAt": "2018-05-14T05:36:22.209Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Neeraj"
+  },
+  {
+    "machine": "HYD. PN. PRESS - 1",
+    "inspectedAt": "2018-05-14T07:42:22.373Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Neeraj",
+    "timeTaken": 21,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "instrument": "e0eMWkFgVGXDY6NxU9JF",
+        "samples": {
+          "0": "42.15",
+          "1": "42.08",
+          "2": "42.06"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 42.2,
+        "frequency": 2,
+        "inspectionAt": "2018-05-14T07:36:22.209Z",
+        "min": 42,
+        "name": "Length",
+        "instrumentId": "SM/SG/02  ",
+        "id": "LmdD05e6QJzWDcQ2SOB1_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ]
+      },
+      {
+        "max": 0.1,
+        "frequency": 2,
+        "inspectionAt": "2018-05-14T07:36:22.209Z",
+        "min": 0,
+        "name": "Run out \n(A B)",
+        "instrumentId": "SM/SG/01  ",
+        "id": "MYx9AuwWq44CZvUVgb72_3",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "WZn6g8rbMHhLIbqYnUsR",
+        "samples": {
+          "0": "0.05",
+          "1": "0.06",
+          "2": "0.08"
+        },
+        "unit": "mm",
+        "type": "Range"
+      },
+      {
+        "inspectionAt": "2018-05-14T07:36:22.209Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Marking - should be available on Core Unit as per Daily Lot Traceability sheet",
+        "type": "OK - Not OK",
+        "id": "Hk9GYrBRp9PVlXNZXk1R_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Nitish",
+    "timeTaken": 49,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "instrumentId": "AS/DGV-11",
+        "id": "g9iHkpGLptKj5yUmUa4g_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "134.08",
+          "1": "133.96",
+          "2": "133.89"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 134.7,
+        "frequency": 2,
+        "inspectionAt": "2018-05-14T07:37:14.275Z",
+        "min": 133.3,
+        "name": "Length of Wire"
+      },
+      {
+        "instrumentId": "AS/DGV-11",
+        "id": "C2t0T5rBKiuVGPsyBrij_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "1.99",
+          "1": "1.98",
+          "2": "1.99"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 2,
+        "frequency": 2,
+        "inspectionAt": "2018-05-14T07:37:14.275Z",
+        "min": 1.9,
+        "name": "Enamel peel off-Wire Dia."
+      },
+      {
+        "name": "Peel-off length",
+        "instrumentId": "AS/DGV-11",
+        "id": "YBbdorrDJarPjn9Ji9J5_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "10.46",
+          "1": "10.39",
+          "2": "10.68"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 11,
+        "frequency": 2,
+        "inspectionAt": "2018-05-14T07:37:14.275Z",
+        "min": 9
+      },
+      {
+        "name": "Length Wire / Enamel-Should qualify as per Gauge",
+        "type": "OK - Not OK",
+        "id": "531EBpkWZDKAEnIVbIB8_3",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-14T07:37:14.275Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "WIRE CUTTING SPM - 1",
+    "inspectedAt": "2018-05-14T07:43:12.439Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma"
+  },
+  {
+    "inspectedAt": "2018-05-14T05:37:14.275Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Nitish",
+    "timeTaken": 40,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "type": "Range",
+        "max": 134.7,
+        "frequency": 2,
+        "min": 133.3,
+        "name": "Length of Wire",
+        "instrumentId": "AS/DGV-11",
+        "id": "g9iHkpGLptKj5yUmUa4g_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "134.08",
+          "1": "134.16",
+          "2": "134.11"
+        },
+        "unit": "mm"
+      },
+      {
+        "type": "Range",
+        "max": 2,
+        "frequency": 2,
+        "min": 1.9,
+        "name": "Enamel peel off-Wire Dia.",
+        "instrumentId": "AS/DGV-11",
+        "id": "C2t0T5rBKiuVGPsyBrij_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "1.99",
+          "1": "1.98",
+          "2": "1.99"
+        },
+        "unit": "mm"
+      },
+      {
+        "name": "Peel-off length",
+        "instrumentId": "AS/DGV-11",
+        "id": "YBbdorrDJarPjn9Ji9J5_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "10.98",
+          "1": "10.36",
+          "2": "10.42"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 11,
+        "frequency": 2,
+        "min": 9
+      },
+      {
+        "name": "Length Wire / Enamel-Should qualify as per Gauge",
+        "type": "OK - Not OK",
+        "id": "531EBpkWZDKAEnIVbIB8_3",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "WIRE CUTTING SPM - 1"
+  },
+  {
+    "inspectedAt": "2018-05-14T05:37:34.025Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Nitish",
+    "timeTaken": 5,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance Conical Ends - Free From Burr, Conical Ends Should enable Free Wire insertion",
+        "type": "OK - Not OK",
+        "id": "78owAk7hjD0IqwRJFhXB_0",
+        "max": null,
+        "frequency": 2
+      }
+    ],
+    "machine": "BURR REMOVAL - MANUAL"
+  },
+  {
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Nitish",
+    "timeTaken": 4,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "inspectionAt": "2018-05-14T07:37:34.025Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance Conical Ends - Free From Burr, Conical Ends Should enable Free Wire insertion",
+        "type": "OK - Not OK",
+        "id": "78owAk7hjD0IqwRJFhXB_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      }
+    ],
+    "machine": "BURR REMOVAL - MANUAL",
+    "inspectedAt": "2018-05-14T07:43:18.919Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma"
+  },
+  {
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Pintu",
+    "timeTaken": 23,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "20.08",
+          "1": "20.15",
+          "2": "20.11"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 21.5,
+        "frequency": 2,
+        "min": 19.84,
+        "name": "Wire Distance (A)",
+        "instrumentId": "AS/DGV-11",
+        "id": "JQgt70nHNjCN1mqwfTjH_0"
+      },
+      {
+        "name": "Appearance - Free from burr,enamel peel off, deformity etc.",
+        "type": "OK - Not OK",
+        "id": "fBf2ItcKua6uJlEHz3aL_5",
+        "max": 52,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": 48,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "name": "Appearance -Should be as per One point Lesson-Enamel length should be equal",
+        "type": "OK - Not OK",
+        "id": "bt2INI2rmTdNzTUzEWpv_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "WIRE FORMATION SPM - 1",
+    "inspectedAt": "2018-05-14T05:38:12.889Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma"
+  },
+  {
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Pintu",
+    "timeTaken": 24,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "type": "Range",
+        "max": 21.5,
+        "frequency": 2,
+        "inspectionAt": "2018-05-14T07:38:12.889Z",
+        "min": 19.84,
+        "name": "Wire Distance (A)",
+        "instrumentId": "AS/DGV-11",
+        "id": "JQgt70nHNjCN1mqwfTjH_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "20.08",
+          "1": "20.15",
+          "2": "20.13"
+        },
+        "unit": "mm"
+      },
+      {
+        "type": "OK - Not OK",
+        "id": "fBf2ItcKua6uJlEHz3aL_5",
+        "max": 52,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-14T07:38:12.889Z",
+        "min": 48,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Free from burr,enamel peel off, deformity etc."
+      },
+      {
+        "name": "Appearance -Should be as per One point Lesson-Enamel length should be equal",
+        "type": "OK - Not OK",
+        "id": "bt2INI2rmTdNzTUzEWpv_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-14T07:38:12.889Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "WIRE FORMATION SPM - 1",
+    "inspectedAt": "2018-05-14T07:43:50.437Z",
+    "fpa": false,
+    "reasonFpa": null
+  },
+  {
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Subhanti",
+    "timeTaken": 24,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "instrumentId": "AS/DGV-11",
+        "id": "W3lhMT9VpOfNaRSFUsrx_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "19.45",
+          "1": "19.62",
+          "2": "19.68"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 20.8,
+        "frequency": 2,
+        "inspectionAt": "2018-05-14T07:38:52.207Z",
+        "min": 19.01,
+        "name": "Wire Distance (B)"
+      },
+      {
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-14T07:38:52.207Z",
+        "min": 48,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Free from burr,enamel peel off, deformity etc.",
+        "type": "OK - Not OK",
+        "id": "fBf2ItcKua6uJlEHz3aL_5",
+        "max": 52
+      },
+      {
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-14T07:38:52.207Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance -Should be as per One point Lesson-Enamel length should be equal",
+        "type": "OK - Not OK",
+        "id": "bt2INI2rmTdNzTUzEWpv_6",
+        "max": null
+      }
+    ],
+    "machine": "WIRE FORMATION SPM - 2",
+    "inspectedAt": "2018-05-14T07:44:16.941Z"
+  },
+  {
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Subhanti",
+    "timeTaken": 22,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Wire Distance (B)",
+        "instrumentId": "AS/DGV/02",
+        "id": "W3lhMT9VpOfNaRSFUsrx_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "VERNIER CALIPER",
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w"
+          }
+        ],
+        "instrument": "uHsBpJG8QQd7hUNZOyJw",
+        "samples": {
+          "0": "19.45",
+          "1": "19.35",
+          "2": "19.58"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 20.8,
+        "frequency": 2,
+        "min": 19.01
+      },
+      {
+        "name": "Appearance - Free from burr,enamel peel off, deformity etc.",
+        "type": "OK - Not OK",
+        "id": "fBf2ItcKua6uJlEHz3aL_5",
+        "max": 52,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": 48,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance -Should be as per One point Lesson-Enamel length should be equal",
+        "type": "OK - Not OK",
+        "id": "bt2INI2rmTdNzTUzEWpv_6",
+        "max": null
+      }
+    ],
+    "machine": "WIRE FORMATION SPM - 2",
+    "inspectedAt": "2018-05-14T05:38:52.207Z",
+    "fpa": true
+  },
+  {
+    "timeTaken": 4,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "inspectionAt": "2018-05-14T07:39:13.523Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Should match with core assy.",
+        "type": "OK - Not OK",
+        "id": "GOpJnBfabX05ZqiLCM79_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      }
+    ],
+    "machine": "CORE SIDE PLACEMENT - MANUAL",
+    "inspectedAt": "2018-05-14T07:44:23.753Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Rakhi"
+  },
+  {
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Rakhi",
+    "timeTaken": 4,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "id": "GOpJnBfabX05ZqiLCM79_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Should match with core assy.",
+        "type": "OK - Not OK"
+      }
+    ],
+    "machine": "CORE SIDE PLACEMENT - MANUAL",
+    "inspectedAt": "2018-05-14T05:39:13.523Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection."
+  },
+  {
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Vandana",
+    "timeTaken": 7,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Winding Pitch - 1-5 clockwise",
+        "type": "OK - Not OK",
+        "id": "FfOTCvTZdrhW2kYgbAMv_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "name": "Wire pressing - Magnet wires should be properly pressed in core unit without any damage (enamel peel-off )",
+        "type": "OK - Not OK",
+        "id": "q3kaRSqCpzPYxwE0j0CF_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "ARBOR PRESS - 01",
+    "inspectedAt": "2018-05-14T05:39:37.741Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma"
+  },
+  {
+    "inspectedAt": "2018-05-14T07:44:36.570Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Vandana",
+    "timeTaken": 9,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Winding Pitch - 1-5 clockwise",
+        "type": "OK - Not OK",
+        "id": "FfOTCvTZdrhW2kYgbAMv_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-14T07:39:37.741Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "name": "Wire pressing - Magnet wires should be properly pressed in core unit without any damage (enamel peel-off )",
+        "type": "OK - Not OK",
+        "id": "q3kaRSqCpzPYxwE0j0CF_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-14T07:39:37.741Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "ARBOR PRESS - 01"
+  },
+  {
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Sanjay",
+    "timeTaken": 27,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "type": "OK - Not OK",
+        "id": "eAGRAgWoRACfKn8IEXMk_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-14T07:40:37.604Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Upper wire conn. - 2.5 slot left"
+      },
+      {
+        "name": "Lower wire conn. - 2.5 slot right",
+        "type": "OK - Not OK",
+        "id": "AQG75Zmf5mOBf1mY38uV_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-14T07:40:37.604Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "WRK2mNJAX4EBoHXkFE20",
+        "samples": {
+          "0": "29.65",
+          "1": "29.42",
+          "2": "29.68"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 30,
+        "frequency": 2,
+        "inspectionAt": "2018-05-14T07:40:37.604Z",
+        "min": 29,
+        "name": "Shape ID",
+        "instrumentId": "SM/SG/04  ",
+        "id": "wScaklzvIo48mddp2bMc_2"
+      },
+      {
+        "name": "Height",
+        "instrumentId": "SM/SG/02  ",
+        "id": "aEaaL1K3SpfUkIcqb7dI_3",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "e0eMWkFgVGXDY6NxU9JF",
+        "samples": {
+          "0": "6.58",
+          "1": "6.62",
+          "2": "6.89"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 7.6,
+        "frequency": 2,
+        "inspectionAt": "2018-05-14T07:40:37.604Z",
+        "min": 5.6
+      }
+    ],
+    "machine": "TWISTING ",
+    "inspectedAt": "2018-05-14T07:45:14.621Z"
+  },
+  {
+    "timeTaken": 36,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Upper wire conn. - 2.5 slot left",
+        "type": "OK - Not OK",
+        "id": "eAGRAgWoRACfKn8IEXMk_0",
+        "max": null,
+        "frequency": 2
+      },
+      {
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Lower wire conn. - 2.5 slot right",
+        "type": "OK - Not OK",
+        "id": "AQG75Zmf5mOBf1mY38uV_1",
+        "max": null
+      },
+      {
+        "name": "Shape ID",
+        "instrumentId": "SM/SG/04  ",
+        "id": "wScaklzvIo48mddp2bMc_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "WRK2mNJAX4EBoHXkFE20",
+        "samples": {
+          "0": "29.86",
+          "1": "29.68",
+          "2": "29.08"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 30,
+        "frequency": 2,
+        "min": 29
+      },
+      {
+        "type": "Range",
+        "max": 7.6,
+        "frequency": 2,
+        "min": 5.6,
+        "name": "Height",
+        "instrumentId": "SM/SG/02  ",
+        "id": "aEaaL1K3SpfUkIcqb7dI_3",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "SPECIAL GAUGE",
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV"
+          }
+        ],
+        "instrument": "e0eMWkFgVGXDY6NxU9JF",
+        "samples": {
+          "0": "6.89",
+          "1": "6.72",
+          "2": "6.83"
+        },
+        "unit": "mm"
+      }
+    ],
+    "machine": "TWISTING ",
+    "inspectedAt": "2018-05-14T05:40:37.604Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Sanjay"
+  },
+  {
+    "inspectedAt": "2018-05-14T05:41:16.122Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Harkesh",
+    "timeTaken": 13,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Comm. Press Height",
+        "instrumentId": "SM/SG/03  ",
+        "id": "kfSyb0Y9GUXnT4JG3iK4_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "SPECIAL GAUGE",
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV"
+          }
+        ],
+        "instrument": "2v0aQubAWnqJvPPZXwiu",
+        "samples": {
+          "0": "78.89",
+          "1": "78.91",
+          "2": "78.90"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 79,
+        "frequency": 2,
+        "min": 78.8
+      }
+    ],
+    "machine": "HYD. PN. PRESS - 1"
+  },
+  {
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Harkesh",
+    "timeTaken": 10,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "unit": "mm",
+        "type": "Range",
+        "max": 79,
+        "frequency": 2,
+        "inspectionAt": "2018-05-14T07:41:16.122Z",
+        "min": 78.8,
+        "name": "Comm. Press Height",
+        "instrumentId": "SM/SG/03  ",
+        "id": "kfSyb0Y9GUXnT4JG3iK4_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "SPECIAL GAUGE",
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV"
+          }
+        ],
+        "instrument": "2v0aQubAWnqJvPPZXwiu",
+        "samples": {
+          "0": "78.89",
+          "1": "78.93",
+          "2": "78.92"
+        }
+      }
+    ],
+    "machine": "HYD. PN. PRESS - 1",
+    "inspectedAt": "2018-05-14T07:45:27.888Z",
+    "fpa": false
+  },
+  {
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Harkesh",
+    "timeTaken": 5,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Insertion of Wires - Should fit properly in the commutator",
+        "type": "OK - Not OK",
+        "id": "j3MKDW3vyIOyYFnyVnnX_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": "   ",
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "MAGNET WIRE SQ- 01",
+    "inspectedAt": "2018-05-14T05:57:15.230Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma"
+  },
+  {
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Uma",
+    "timeTaken": 10,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Ground Short",
+        "instrumentId": "H.V.T-01",
+        "id": "LBXqvNWtfbbBbjU8bJpz_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "HIGH VOLTAGE TESTER",
+            "instrumentGroupId": "iBrhUJOj1HfCVyVSlJAd"
+          }
+        ],
+        "instrument": "GGWQaWxQJfFZg4qdkjPY",
+        "samples": {
+          "0": "1025.00",
+          "1": "1042.00",
+          "2": "1031.00"
+        },
+        "unit": "Volts",
+        "type": "Range",
+        "max": 1050,
+        "frequency": 2,
+        "min": 1000
+      }
+    ],
+    "machine": "HIGH VOLTAGE - 01",
+    "inspectedAt": "2018-05-14T05:57:40.964Z",
+    "fpa": true
+  },
+  {
+    "timeTaken": 18,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Fusing Depth - 01",
+        "instrumentId": "SM/SG/11  ",
+        "id": "KbULSWf4xKVZRdayaJeh_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "AwcpLAn465o2rczuRROX",
+        "samples": {
+          "0": "1.65",
+          "1": "1.42",
+          "2": "1.53"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 1.9,
+        "frequency": 2,
+        "min": 1.2
+      },
+      {
+        "type": "OK - Not OK",
+        "id": "IgWOfmU7uKptnuHEfwYg_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Marking - White colour marking Should be done on the armature assembly after fusing"
+      },
+      {
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Fusing should be aligned & Copper segments should not get damaged after fusing",
+        "type": "OK - Not OK",
+        "id": "YFQicRwUSmo8KZohUGNF_2",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      }
+    ],
+    "machine": "FUSING - 01",
+    "inspectedAt": "2018-05-14T05:58:14.262Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Uma"
+  },
+  {
+    "timeTaken": 15,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Fusing Depth - 02",
+        "instrumentId": "SM/SG/11  ",
+        "id": "c2ZYPrETNSaRAUvdXXZL_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "AwcpLAn465o2rczuRROX",
+        "samples": {
+          "0": "1.52",
+          "1": "1.42",
+          "2": "1.57"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 1.9,
+        "frequency": 2,
+        "min": 1.2
+      },
+      {
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Marking - Blue colour marking Should be done on the armature assembly after fusing",
+        "type": "OK - Not OK",
+        "id": "0JM7mYYUTf2uFkPaENDo_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      },
+      {
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Fusing should be aligned & Copper segments should not get damaged after fusing",
+        "type": "OK - Not OK",
+        "id": "YFQicRwUSmo8KZohUGNF_2",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      }
+    ],
+    "machine": "FUSING - 02",
+    "inspectedAt": "2018-05-14T05:58:43.214Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Uma"
+  },
+  {
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Appearance - Free From Scratches or any other visual defects",
+        "type": "OK - Not OK",
+        "id": "hhW6zixL7yAqP8EKn7Dg_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "POLISHING - 01 ",
+    "inspectedAt": "2018-05-14T05:59:19.947Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Balkrishn",
+    "timeTaken": 4,
+    "rejectionCount": 0
+  },
+  {
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Varsha",
+    "timeTaken": 28,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "max": 100,
+        "frequency": 2,
+        "min": 0,
+        "name": "Dynamic Unbalance - LEFT",
+        "instrumentId": "AS/BMP/01",
+        "id": "0D8V7AJRLi1OWnfougqL_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "rjFBCXfgesAIMUcubLO9",
+            "instrumentGroupName": "BALANCING MACHINE PANEL"
+          }
+        ],
+        "instrument": "EMBAdL7FzF3mSaOrqtaQ",
+        "samples": {
+          "0": "29.00",
+          "1": "42.00",
+          "2": "31.00"
+        },
+        "unit": "mg",
+        "type": "Range"
+      },
+      {
+        "type": "Range",
+        "max": 100,
+        "frequency": 2,
+        "min": 0,
+        "name": "Dynamic Unbalance - RIGHT",
+        "instrumentId": "AS/BMP/01",
+        "id": "WGJBBEza0WHZzIkYzAW7_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "rjFBCXfgesAIMUcubLO9",
+            "instrumentGroupName": "BALANCING MACHINE PANEL"
+          }
+        ],
+        "instrument": "EMBAdL7FzF3mSaOrqtaQ",
+        "samples": {
+          "0": "31.00",
+          "1": "25.00",
+          "2": "75.00"
+        },
+        "unit": "mg"
+      },
+      {
+        "name": "Static Unbalance",
+        "instrumentId": "AS/BMP/01",
+        "id": "IMJ1zxbdyEordjLw436z_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "rjFBCXfgesAIMUcubLO9",
+            "instrumentGroupName": "BALANCING MACHINE PANEL"
+          }
+        ],
+        "instrument": "EMBAdL7FzF3mSaOrqtaQ",
+        "samples": {
+          "0": "26.00",
+          "1": "45.00",
+          "2": "31.00"
+        },
+        "unit": "mg",
+        "type": "Range",
+        "max": 110,
+        "frequency": 2,
+        "min": 0
+      },
+      {
+        "name": "Marking - Operator should visually check Yellow / White colour Automarking should be availble on Armature Assy on Copper coil.",
+        "type": "OK - Not OK",
+        "id": "gcnJ133cVu7YCBv9gZYW_5",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "AUTO BALANCING - 01",
+    "inspectedAt": "2018-05-14T06:00:04.167Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection."
+  },
+  {
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Appearance - Slitting should be free from cutting overlap , burr and not allowed on copper",
+        "type": "OK - Not OK",
+        "id": "dN2EtI5tO0JFay5I4Qmj_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "type": "OK - Not OK",
+        "id": "WkDI3OkRHAhSTv1RGzzx_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Resin Appearance - Resin material should not be available  on both sides  of the slit"
+      },
+      {
+        "instrumentId": "SM/SG/04  ",
+        "id": "K3ff6Y1PUIVnbPtwywwv_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "WRK2mNJAX4EBoHXkFE20",
+        "samples": {
+          "0": "12.00",
+          "1": "12.01",
+          "2": "12.00"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 12.011,
+        "frequency": 2,
+        "min": 12,
+        "name": "Shaft Armature Dia -"
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "16.12",
+          "1": "16.06",
+          "2": "16.12"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 16.5,
+        "frequency": 2,
+        "min": 15.5,
+        "name": "Slit Length",
+        "instrumentId": "AS/DGV-11",
+        "id": "sddbyocNIU51lvSsdSMd_3"
+      },
+      {
+        "instrumentId": "SM/SG/11  ",
+        "id": "2WLIurC5OIl78oICa13O_4",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "AwcpLAn465o2rczuRROX",
+        "samples": {
+          "0": "0.46",
+          "1": "0.42",
+          "2": "0.45"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 0.5,
+        "frequency": 2,
+        "min": 0.4,
+        "name": "Slit Depth"
+      },
+      {
+        "frequency": 2,
+        "min": 0.75,
+        "name": "Slit Width",
+        "instrumentId": "SM/SG/09  ",
+        "id": "5nTwKGmnv4haSHox6KjW_5",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "L3JzKTgZ3vZzlrjycwtf",
+        "samples": {
+          "0": "0.77",
+          "1": "0.77",
+          "2": "0.78"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 0.85
+      },
+      {
+        "name": "Marking - Pink marking to be done on Comm. Riser OD-after visual check",
+        "type": "OK - Not OK",
+        "id": "JwYirH4ZCZgAcwyyeHsE_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "SLITTING - 01",
+    "inspectedAt": "2018-05-14T06:10:10.177Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Chandrasekh",
+    "timeTaken": 49,
+    "rejectionCount": 0
+  },
+  {
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Chandrasekh",
+    "timeTaken": 41,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "type": "OK - Not OK",
+        "id": "dN2EtI5tO0JFay5I4Qmj_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Slitting should be free from cutting overlap , burr and not allowed on copper"
+      },
+      {
+        "name": "Resin Appearance - Resin material should not be available  on both sides  of the slit",
+        "type": "OK - Not OK",
+        "id": "WkDI3OkRHAhSTv1RGzzx_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "name": "Shaft Armature Dia -",
+        "instrumentId": "SM/SG/04  ",
+        "id": "K3ff6Y1PUIVnbPtwywwv_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "WRK2mNJAX4EBoHXkFE20",
+        "samples": {
+          "0": "12.00",
+          "1": "12.01",
+          "2": "12.01"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 12.011,
+        "frequency": 2,
+        "min": 12
+      },
+      {
+        "name": "Slit Length",
+        "instrumentId": "AS/DGV-11",
+        "id": "sddbyocNIU51lvSsdSMd_3",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "16.05",
+          "1": "16.12",
+          "2": "16.01"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 16.5,
+        "frequency": 2,
+        "min": 15.5
+      },
+      {
+        "name": "Slit Depth",
+        "instrumentId": "SM/SG/11  ",
+        "id": "2WLIurC5OIl78oICa13O_4",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "AwcpLAn465o2rczuRROX",
+        "samples": {
+          "0": "0.45",
+          "1": "0.42",
+          "2": "0.42"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 0.5,
+        "frequency": 2,
+        "min": 0.4
+      },
+      {
+        "max": 0.85,
+        "frequency": 2,
+        "min": 0.75,
+        "name": "Slit Width",
+        "instrumentId": "SM/SG/09  ",
+        "id": "5nTwKGmnv4haSHox6KjW_5",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "SPECIAL GAUGE",
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV"
+          }
+        ],
+        "instrument": "L3JzKTgZ3vZzlrjycwtf",
+        "samples": {
+          "0": "0.78",
+          "1": "0.78",
+          "2": "0.77"
+        },
+        "unit": "mm",
+        "type": "Range"
+      },
+      {
+        "type": "OK - Not OK",
+        "id": "j4aXjDhEJIHSXwKekZPk_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Marking -Blue marking to be done on Comm. Riser OD-after visual check"
+      }
+    ],
+    "machine": "SLITTING - 02",
+    "inspectedAt": "2018-05-14T06:11:10.027Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma"
+  },
+  {
+    "machine": "POLISHING - 02 ",
+    "inspectedAt": "2018-05-14T06:11:43.093Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Balkrishn",
+    "timeTaken": 7,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Appearance - Free From Scratches or any other visual defects",
+        "type": "OK - Not OK",
+        "id": "hhW6zixL7yAqP8EKn7Dg_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "type": "OK - Not OK",
+        "id": "6KUECtol3fuPlolSerWQ_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Shaft Armature Dia - 12.0 +0.011"
+      }
+    ]
+  },
+  {
+    "machine": "ARMATURE ANALYSER -01",
+    "inspectedAt": "2018-05-14T06:12:02.576Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Badri",
+    "timeTaken": 4,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "id": "yjUivL2K8htVq03uOJp3_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Marking - Ok armature should be marked with green colour on comm. Face & milling cut to ensure balancing has done",
+        "type": "OK - Not OK"
+      }
+    ]
+  },
+  {
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Kuldeep",
+    "timeTaken": 22,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "ccx5YKfZcyop3rRJR4vG",
+        "samples": {
+          "0": "42.11",
+          "1": "42.15",
+          "2": "42.08"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 42.2,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T07:22:57.021Z",
+        "min": 42,
+        "name": "Length",
+        "instrumentId": "SM/SG/07  ",
+        "id": "LmdD05e6QJzWDcQ2SOB1_0"
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "WZn6g8rbMHhLIbqYnUsR",
+        "samples": {
+          "0": "0.05",
+          "1": "0.06",
+          "2": "0.05"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 0.1,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T07:22:57.021Z",
+        "min": 0,
+        "name": "Run out \n(A B)",
+        "instrumentId": "SM/SG/01  ",
+        "id": "MYx9AuwWq44CZvUVgb72_3"
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T07:22:57.021Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Marking - should be available on Core Unit as per Daily Lot Traceability sheet",
+        "type": "OK - Not OK",
+        "id": "Hk9GYrBRp9PVlXNZXk1R_6",
+        "max": null,
+        "frequency": 2
+      }
+    ],
+    "machine": "HYD. PN. PRESS - 1",
+    "inspectedAt": "2018-05-18T08:17:21.031Z"
+  },
+  {
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Kuldeep",
+    "timeTaken": 23,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Length",
+        "instrumentId": "SM/SG/07  ",
+        "id": "LmdD05e6QJzWDcQ2SOB1_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "ccx5YKfZcyop3rRJR4vG",
+        "samples": {
+          "0": "42.15",
+          "1": "42.08",
+          "2": "42.13"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 42.2,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T10:17:21.031Z",
+        "min": 42
+      },
+      {
+        "name": "Run out \n(A B)",
+        "instrumentId": "SM/SG/01  ",
+        "id": "MYx9AuwWq44CZvUVgb72_3",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "WZn6g8rbMHhLIbqYnUsR",
+        "samples": {
+          "0": "0.05",
+          "1": "0.06",
+          "2": "0.04"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 0.1,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T10:17:21.031Z",
+        "min": 0
+      },
+      {
+        "inspectionAt": "2018-05-18T10:17:21.031Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Marking - should be available on Core Unit as per Daily Lot Traceability sheet",
+        "type": "OK - Not OK",
+        "id": "Hk9GYrBRp9PVlXNZXk1R_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      }
+    ],
+    "machine": "HYD. PN. PRESS - 1",
+    "inspectedAt": "2018-05-18T10:31:41.404Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma"
+  },
+  {
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Kuldeep",
+    "timeTaken": 97,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "instrumentId": "SM/SG/07  ",
+        "id": "LmdD05e6QJzWDcQ2SOB1_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "ccx5YKfZcyop3rRJR4vG",
+        "samples": {
+          "0": "42.18",
+          "1": "42.08",
+          "2": "42.09"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 42.2,
+        "frequency": 2,
+        "min": 42,
+        "name": "Length"
+      },
+      {
+        "name": "Core unit Length",
+        "instrumentId": "SM/SG/08  ",
+        "id": "4NS2dejBjL0uld555J7Q_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "s5zdzFGc7ZpFfzPqCLE3",
+        "samples": {
+          "0": "26.98",
+          "1": "26.75",
+          "2": "26.91"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 27.6,
+        "frequency": 2,
+        "min": 26.4
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "MICROMETER",
+            "instrumentGroupId": "846yJlX96QTo1DwaqAt6"
+          }
+        ],
+        "instrument": "UcBui6ZDS9HDfPVYwNcW",
+        "samples": {
+          "0": "49.98",
+          "1": "49.99",
+          "2": "49.98"
+        },
+        "unit": "mg",
+        "type": "Range",
+        "max": 50.05,
+        "frequency": 2,
+        "min": 49.95,
+        "name": "Core Unit OD",
+        "instrumentId": "AS/MM/04",
+        "id": "2Du8EnaZF68QC6dtH4mu_2"
+      },
+      {
+        "instrumentId": "SM/SG/01  ",
+        "id": "MYx9AuwWq44CZvUVgb72_3",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "WZn6g8rbMHhLIbqYnUsR",
+        "samples": {
+          "0": "0.05",
+          "1": "0.06",
+          "2": "0.06"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 0.1,
+        "frequency": 2,
+        "min": 0,
+        "name": "Run out \n(A B)"
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "6JGyIVlaOfsjEinRfTZd",
+            "instrumentGroupName": "HEIGHT GAUGE"
+          }
+        ],
+        "instrument": "ymx8jOj7o4YkBEwY3s7P",
+        "samples": {
+          "0": "100.31",
+          "1": "100.38",
+          "2": "100.39"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 100.4,
+        "frequency": 2,
+        "min": 100.2,
+        "name": "Total Length",
+        "instrumentId": "AS/DHG/01",
+        "id": "3u5DTigECXWUxdhFkHJF_4"
+      },
+      {
+        "type": "Range",
+        "max": 40,
+        "frequency": 2,
+        "min": 18.6,
+        "name": "Torque",
+        "instrumentId": "AS/TW/01",
+        "id": "SGmWWoAo3VxJ1czDUeWh_5",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "Rz4mDAs2pWe07vyiMr7F",
+            "instrumentGroupName": "TORQUE WRENCH"
+          }
+        ],
+        "instrument": "GIWzkU0qTw7rdUlbiH5v",
+        "samples": {
+          "0": "29.00",
+          "1": "28.00",
+          "2": "29.00"
+        },
+        "unit": "Nm"
+      },
+      {
+        "type": "OK - Not OK",
+        "id": "Hk9GYrBRp9PVlXNZXk1R_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Marking - should be available on Core Unit as per Daily Lot Traceability sheet"
+      }
+    ],
+    "machine": "HYD. PN. PRESS - 1",
+    "inspectedAt": "2018-05-18T05:22:57.021Z"
+  },
+  {
+    "inspectedAt": "2018-05-18T05:49:05.043Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Nitish",
+    "timeTaken": 31,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "min": 133.3,
+        "name": "Length of Wire",
+        "instrumentId": "AS/DGV-11",
+        "id": "g9iHkpGLptKj5yUmUa4g_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "134.08",
+          "1": "133.98",
+          "2": "133.85"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 134.7,
+        "frequency": 2
+      },
+      {
+        "min": 1.9,
+        "name": "Enamel peel off-Wire Dia.",
+        "instrumentId": "AS/DGV-11",
+        "id": "C2t0T5rBKiuVGPsyBrij_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "1.99",
+          "1": "1.98",
+          "2": "1.98"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 2,
+        "frequency": 2
+      },
+      {
+        "frequency": 2,
+        "min": 9,
+        "name": "Peel-off length",
+        "instrumentId": "AS/DGV-11",
+        "id": "YBbdorrDJarPjn9Ji9J5_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "10.78",
+          "1": "10.72",
+          "2": "10.08"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 11
+      },
+      {
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Length Wire / Enamel-Should qualify as per Gauge",
+        "type": "OK - Not OK",
+        "id": "531EBpkWZDKAEnIVbIB8_3",
+        "max": null
+      }
+    ],
+    "machine": "WIRE CUTTING SPM - 1"
+  },
+  {
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Nitish",
+    "timeTaken": 33,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "type": "Range",
+        "max": 134.7,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T10:17:57.298Z",
+        "min": 133.3,
+        "name": "Length of Wire",
+        "instrumentId": "AS/DGV-11",
+        "id": "g9iHkpGLptKj5yUmUa4g_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "134.08",
+          "1": "134.15",
+          "2": "134.11"
+        },
+        "unit": "mm"
+      },
+      {
+        "instrumentId": "AS/DGV-11",
+        "id": "C2t0T5rBKiuVGPsyBrij_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "1.99",
+          "1": "1.98",
+          "2": "1.99"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 2,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T10:17:57.298Z",
+        "min": 1.9,
+        "name": "Enamel peel off-Wire Dia."
+      },
+      {
+        "name": "Peel-off length",
+        "instrumentId": "AS/DGV-11",
+        "id": "YBbdorrDJarPjn9Ji9J5_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "VERNIER CALIPER",
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "10.45",
+          "1": "10.68",
+          "2": "10.42"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 11,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T10:17:57.298Z",
+        "min": 9
+      },
+      {
+        "name": "Length Wire / Enamel-Should qualify as per Gauge",
+        "type": "OK - Not OK",
+        "id": "531EBpkWZDKAEnIVbIB8_3",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T10:17:57.298Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "WIRE CUTTING SPM - 1",
+    "inspectedAt": "2018-05-18T10:32:23.015Z",
+    "fpa": false
+  },
+  {
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Nitish",
+    "timeTaken": 32,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "134.02",
+          "1": "134.09",
+          "2": "134.15"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 134.7,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T12:32:23.015Z",
+        "min": 133.3,
+        "name": "Length of Wire",
+        "instrumentId": "AS/DGV-11",
+        "id": "g9iHkpGLptKj5yUmUa4g_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ]
+      },
+      {
+        "instrumentId": "AS/DGV-11",
+        "id": "C2t0T5rBKiuVGPsyBrij_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "VERNIER CALIPER",
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "1.99",
+          "1": "1.98",
+          "2": "1.95"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 2,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T12:32:23.015Z",
+        "min": 1.9,
+        "name": "Enamel peel off-Wire Dia."
+      },
+      {
+        "instrumentId": "AS/DGV-11",
+        "id": "YBbdorrDJarPjn9Ji9J5_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "10.72",
+          "1": "10.36",
+          "2": "10.45"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 11,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T12:32:23.015Z",
+        "min": 9,
+        "name": "Peel-off length"
+      },
+      {
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T12:32:23.015Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Length Wire / Enamel-Should qualify as per Gauge",
+        "type": "OK - Not OK",
+        "id": "531EBpkWZDKAEnIVbIB8_3",
+        "max": null
+      }
+    ],
+    "machine": "WIRE CUTTING SPM - 1",
+    "inspectedAt": "2018-05-18T11:52:03.393Z",
+    "fpa": false
+  },
+  {
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Length of Wire",
+        "instrumentId": "AS/DGV-11",
+        "id": "g9iHkpGLptKj5yUmUa4g_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "134.08",
+          "1": "133.96",
+          "2": "134.02"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 134.7,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T07:49:05.043Z",
+        "min": 133.3
+      },
+      {
+        "inspectionAt": "2018-05-18T07:49:05.043Z",
+        "min": 1.9,
+        "name": "Enamel peel off-Wire Dia.",
+        "instrumentId": "AS/DGV-11",
+        "id": "C2t0T5rBKiuVGPsyBrij_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "1.99",
+          "1": "1.98",
+          "2": "1.99"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 2,
+        "frequency": 2
+      },
+      {
+        "inspectionAt": "2018-05-18T07:49:05.043Z",
+        "min": 9,
+        "name": "Peel-off length",
+        "instrumentId": "AS/DGV-11",
+        "id": "YBbdorrDJarPjn9Ji9J5_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "10.45",
+          "1": "10.65",
+          "2": "10.89"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 11,
+        "frequency": 2
+      },
+      {
+        "inspectionAt": "2018-05-18T07:49:05.043Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Length Wire / Enamel-Should qualify as per Gauge",
+        "type": "OK - Not OK",
+        "id": "531EBpkWZDKAEnIVbIB8_3",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      }
+    ],
+    "machine": "WIRE CUTTING SPM - 1",
+    "inspectedAt": "2018-05-18T08:17:57.298Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Nitish",
+    "timeTaken": 33,
+    "rejectionCount": 0
+  },
+  {
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Nitish",
+    "timeTaken": 6,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Appearance Conical Ends - Free From Burr, Conical Ends Should enable Free Wire insertion",
+        "type": "OK - Not OK",
+        "id": "78owAk7hjD0IqwRJFhXB_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T10:18:04.181Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "BURR REMOVAL - MANUAL",
+    "inspectedAt": "2018-05-18T10:32:33.897Z"
+  },
+  {
+    "inspectedAt": "2018-05-18T08:18:04.181Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Nitish",
+    "timeTaken": 5,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Appearance Conical Ends - Free From Burr, Conical Ends Should enable Free Wire insertion",
+        "type": "OK - Not OK",
+        "id": "78owAk7hjD0IqwRJFhXB_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T07:49:19.886Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "BURR REMOVAL - MANUAL"
+  },
+  {
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Nitish",
+    "timeTaken": 5,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "inspectionAt": "2018-05-18T12:32:33.897Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance Conical Ends - Free From Burr, Conical Ends Should enable Free Wire insertion",
+        "type": "OK - Not OK",
+        "id": "78owAk7hjD0IqwRJFhXB_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      }
+    ],
+    "machine": "BURR REMOVAL - MANUAL",
+    "inspectedAt": "2018-05-18T11:52:17.107Z",
+    "fpa": false,
+    "reasonFpa": null
+  },
+  {
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Appearance Conical Ends - Free From Burr, Conical Ends Should enable Free Wire insertion",
+        "type": "OK - Not OK",
+        "id": "78owAk7hjD0IqwRJFhXB_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "BURR REMOVAL - MANUAL",
+    "inspectedAt": "2018-05-18T05:49:19.886Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Nitish",
+    "timeTaken": 5,
+    "rejectionCount": 0
+  },
+  {
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Sangeeta",
+    "timeTaken": 21,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "19.45",
+          "1": "19.62",
+          "2": "19.58"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 20.8,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T10:18:31.547Z",
+        "min": 19.01,
+        "name": "Wire Distance (B)",
+        "instrumentId": "AS/DGV-11",
+        "id": "W3lhMT9VpOfNaRSFUsrx_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ]
+      },
+      {
+        "name": "Appearance - Free from burr,enamel peel off, deformity etc.",
+        "type": "OK - Not OK",
+        "id": "fBf2ItcKua6uJlEHz3aL_5",
+        "max": 52,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T10:18:31.547Z",
+        "min": 48,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "type": "OK - Not OK",
+        "id": "bt2INI2rmTdNzTUzEWpv_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T10:18:31.547Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance -Should be as per One point Lesson-Enamel length should be equal"
+      }
+    ],
+    "machine": "WIRE FORMATION SPM - 1",
+    "inspectedAt": "2018-05-18T10:32:57.615Z"
+  },
+  {
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Sangeeta",
+    "timeTaken": 41,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "instrumentId": "AS/DGV-11",
+        "id": "W3lhMT9VpOfNaRSFUsrx_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "19.45",
+          "1": "19.68",
+          "2": "19.62"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 20.8,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T12:32:57.615Z",
+        "min": 19.01,
+        "name": "Wire Distance (B)"
+      },
+      {
+        "type": "OK - Not OK",
+        "id": "fBf2ItcKua6uJlEHz3aL_5",
+        "max": 52,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T12:32:57.615Z",
+        "min": 48,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Free from burr,enamel peel off, deformity etc."
+      },
+      {
+        "id": "bt2INI2rmTdNzTUzEWpv_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T12:32:57.615Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance -Should be as per One point Lesson-Enamel length should be equal",
+        "type": "OK - Not OK"
+      }
+    ],
+    "machine": "WIRE FORMATION SPM - 1",
+    "inspectedAt": "2018-05-18T11:53:05.607Z",
+    "fpa": false
+  },
+  {
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Sangeeta",
+    "timeTaken": 19,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Wire Distance (B)",
+        "instrumentId": "AS/DGV-11",
+        "id": "W3lhMT9VpOfNaRSFUsrx_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "19.45",
+          "1": "19.65",
+          "2": "19.53"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 20.8,
+        "frequency": 2,
+        "min": 19.01
+      },
+      {
+        "name": "Appearance - Free from burr,enamel peel off, deformity etc.",
+        "type": "OK - Not OK",
+        "id": "fBf2ItcKua6uJlEHz3aL_5",
+        "max": 52,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": 48,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "name": "Appearance -Should be as per One point Lesson-Enamel length should be equal",
+        "type": "OK - Not OK",
+        "id": "bt2INI2rmTdNzTUzEWpv_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "WIRE FORMATION SPM - 1",
+    "inspectedAt": "2018-05-18T05:49:54.719Z",
+    "fpa": true
+  },
+  {
+    "inspectedAt": "2018-05-18T08:18:31.547Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Sangeeta",
+    "timeTaken": 25,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "instrumentId": "AS/DGV-11",
+        "id": "W3lhMT9VpOfNaRSFUsrx_1",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "19.43",
+          "1": "19.86",
+          "2": "19.69"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 20.8,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T07:49:54.719Z",
+        "min": 19.01,
+        "name": "Wire Distance (B)"
+      },
+      {
+        "type": "OK - Not OK",
+        "id": "fBf2ItcKua6uJlEHz3aL_5",
+        "max": 52,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T07:49:54.719Z",
+        "min": 48,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Free from burr,enamel peel off, deformity etc."
+      },
+      {
+        "name": "Appearance -Should be as per One point Lesson-Enamel length should be equal",
+        "type": "OK - Not OK",
+        "id": "bt2INI2rmTdNzTUzEWpv_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T07:49:54.719Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "WIRE FORMATION SPM - 1"
+  },
+  {
+    "inspectedAt": "2018-05-18T08:19:07.947Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Subhanti",
+    "timeTaken": 36,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "type": "Range",
+        "max": 21.5,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T07:50:50.703Z",
+        "min": 19.84,
+        "name": "Wire Distance (A)",
+        "instrumentId": "AS/DGV-11",
+        "id": "JQgt70nHNjCN1mqwfTjH_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "VERNIER CALIPER",
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "20.08",
+          "1": "20.15",
+          "2": "20.02"
+        },
+        "unit": "mm"
+      },
+      {
+        "name": "Appearance - Free from burr,enamel peel off, deformity etc.",
+        "type": "OK - Not OK",
+        "id": "fBf2ItcKua6uJlEHz3aL_5",
+        "max": 52,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T07:50:50.703Z",
+        "min": 48,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "id": "bt2INI2rmTdNzTUzEWpv_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T07:50:50.703Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance -Should be as per One point Lesson-Enamel length should be equal",
+        "type": "OK - Not OK"
+      }
+    ],
+    "machine": "WIRE FORMATION SPM - 1"
+  },
+  {
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Subhanti",
+    "timeTaken": 17,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "instrumentId": "AS/DGV-11",
+        "id": "JQgt70nHNjCN1mqwfTjH_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "20.05",
+          "1": "20.15",
+          "2": "20.08"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 21.5,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T12:33:21.284Z",
+        "min": 19.84,
+        "name": "Wire Distance (A)"
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T12:33:21.284Z",
+        "min": 48,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Free from burr,enamel peel off, deformity etc.",
+        "type": "OK - Not OK",
+        "id": "fBf2ItcKua6uJlEHz3aL_5",
+        "max": 52,
+        "frequency": 2
+      },
+      {
+        "id": "bt2INI2rmTdNzTUzEWpv_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T12:33:21.284Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance -Should be as per One point Lesson-Enamel length should be equal",
+        "type": "OK - Not OK"
+      }
+    ],
+    "machine": "WIRE FORMATION SPM - 1",
+    "inspectedAt": "2018-05-18T11:53:33.059Z",
+    "fpa": false
+  },
+  {
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "VERNIER CALIPER",
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "20.02",
+          "1": "20.15",
+          "2": "20.13"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 21.5,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T10:19:07.947Z",
+        "min": 19.84,
+        "name": "Wire Distance (A)",
+        "instrumentId": "AS/DGV-11",
+        "id": "JQgt70nHNjCN1mqwfTjH_0"
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T10:19:07.947Z",
+        "min": 48,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Free from burr,enamel peel off, deformity etc.",
+        "type": "OK - Not OK",
+        "id": "fBf2ItcKua6uJlEHz3aL_5",
+        "max": 52,
+        "frequency": 2
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T10:19:07.947Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance -Should be as per One point Lesson-Enamel length should be equal",
+        "type": "OK - Not OK",
+        "id": "bt2INI2rmTdNzTUzEWpv_6",
+        "max": null,
+        "frequency": 2
+      }
+    ],
+    "machine": "WIRE FORMATION SPM - 1",
+    "inspectedAt": "2018-05-18T10:33:21.284Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Subhanti",
+    "timeTaken": 18,
+    "rejectionCount": 0
+  },
+  {
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Subhanti",
+    "timeTaken": 23,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "VERNIER CALIPER",
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "20.08",
+          "1": "20.13",
+          "2": "20.15"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 21.5,
+        "frequency": 2,
+        "min": 19.84,
+        "name": "Wire Distance (A)",
+        "instrumentId": "AS/DGV-11",
+        "id": "JQgt70nHNjCN1mqwfTjH_0"
+      },
+      {
+        "name": "Appearance - Free from burr,enamel peel off, deformity etc.",
+        "type": "OK - Not OK",
+        "id": "fBf2ItcKua6uJlEHz3aL_5",
+        "max": 52,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": 48,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "id": "bt2INI2rmTdNzTUzEWpv_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance -Should be as per One point Lesson-Enamel length should be equal",
+        "type": "OK - Not OK"
+      }
+    ],
+    "machine": "WIRE FORMATION SPM - 1",
+    "inspectedAt": "2018-05-18T05:50:50.703Z",
+    "fpa": true
+  },
+  {
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Rakhi",
+    "timeTaken": 4,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T10:19:14.195Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Should match with core assy.",
+        "type": "OK - Not OK",
+        "id": "GOpJnBfabX05ZqiLCM79_0",
+        "max": null,
+        "frequency": 2
+      }
+    ],
+    "machine": "CORE SIDE PLACEMENT - MANUAL",
+    "inspectedAt": "2018-05-18T10:33:29.582Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma"
+  },
+  {
+    "machine": "CORE SIDE PLACEMENT - MANUAL",
+    "inspectedAt": "2018-05-18T08:19:14.195Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Rakhi",
+    "timeTaken": 5,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "type": "OK - Not OK",
+        "id": "GOpJnBfabX05ZqiLCM79_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T07:51:21.904Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Should match with core assy."
+      }
+    ]
+  },
+  {
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Rakhi",
+    "timeTaken": 5,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Appearance - Should match with core assy.",
+        "type": "OK - Not OK",
+        "id": "GOpJnBfabX05ZqiLCM79_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T12:33:29.582Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "CORE SIDE PLACEMENT - MANUAL",
+    "inspectedAt": "2018-05-18T11:53:43.006Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma"
+  },
+  {
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Rakhi",
+    "timeTaken": 5,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Should match with core assy.",
+        "type": "OK - Not OK",
+        "id": "GOpJnBfabX05ZqiLCM79_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      }
+    ],
+    "machine": "CORE SIDE PLACEMENT - MANUAL",
+    "inspectedAt": "2018-05-18T05:51:21.904Z"
+  },
+  {
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Vandana",
+    "timeTaken": 11,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Winding Pitch - 1-5 clockwise",
+        "type": "OK - Not OK",
+        "id": "FfOTCvTZdrhW2kYgbAMv_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "type": "OK - Not OK",
+        "id": "q3kaRSqCpzPYxwE0j0CF_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Wire pressing - Magnet wires should be properly pressed in core unit without any damage (enamel peel-off )"
+      }
+    ],
+    "machine": "ARBOR PRESS - 01",
+    "inspectedAt": "2018-05-18T05:51:47.038Z"
+  },
+  {
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Vandana",
+    "timeTaken": 5,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "inspectionAt": "2018-05-18T10:19:27.346Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Winding Pitch - 1-5 clockwise",
+        "type": "OK - Not OK",
+        "id": "FfOTCvTZdrhW2kYgbAMv_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      }
+    ],
+    "machine": "ARBOR PRESS - 01",
+    "inspectedAt": "2018-05-18T10:33:38.182Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma"
+  },
+  {
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Vandana",
+    "timeTaken": 8,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Winding Pitch - 1-5 clockwise",
+        "type": "OK - Not OK",
+        "id": "FfOTCvTZdrhW2kYgbAMv_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T07:51:47.038Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "id": "q3kaRSqCpzPYxwE0j0CF_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T07:51:47.038Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Wire pressing - Magnet wires should be properly pressed in core unit without any damage (enamel peel-off )",
+        "type": "OK - Not OK"
+      }
+    ],
+    "machine": "ARBOR PRESS - 01",
+    "inspectedAt": "2018-05-18T08:19:27.346Z",
+    "fpa": false,
+    "reasonFpa": null
+  },
+  {
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Pintu",
+    "timeTaken": 34,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "id": "eAGRAgWoRACfKn8IEXMk_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T08:09:37.763Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Upper wire conn. - 2.5 slot left",
+        "type": "OK - Not OK"
+      },
+      {
+        "id": "AQG75Zmf5mOBf1mY38uV_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T08:09:37.763Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Lower wire conn. - 2.5 slot right",
+        "type": "OK - Not OK"
+      },
+      {
+        "name": "Shape ID",
+        "instrumentId": "SM/SG/04  ",
+        "id": "wScaklzvIo48mddp2bMc_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "SPECIAL GAUGE",
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV"
+          }
+        ],
+        "instrument": "WRK2mNJAX4EBoHXkFE20",
+        "samples": {
+          "0": "29.83",
+          "1": "29.68",
+          "2": "29.08"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 30,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T08:09:37.763Z",
+        "min": 29
+      },
+      {
+        "name": "Height",
+        "instrumentId": "SM/SG/02  ",
+        "id": "aEaaL1K3SpfUkIcqb7dI_3",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "e0eMWkFgVGXDY6NxU9JF",
+        "samples": {
+          "0": "6.85",
+          "1": "6.35",
+          "2": "6.72"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 7.6,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T08:09:37.763Z",
+        "min": 5.6
+      }
+    ],
+    "machine": "TWISTING ",
+    "inspectedAt": "2018-05-18T08:45:54.325Z",
+    "fpa": false
+  },
+  {
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Pintu",
+    "timeTaken": 26,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Upper wire conn. - 2.5 slot left",
+        "type": "OK - Not OK",
+        "id": "eAGRAgWoRACfKn8IEXMk_0",
+        "max": null
+      },
+      {
+        "id": "AQG75Zmf5mOBf1mY38uV_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Lower wire conn. - 2.5 slot right",
+        "type": "OK - Not OK"
+      },
+      {
+        "name": "Shape ID",
+        "instrumentId": "SM/SG/04  ",
+        "id": "wScaklzvIo48mddp2bMc_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "WRK2mNJAX4EBoHXkFE20",
+        "samples": {
+          "0": "29.85",
+          "1": "29.53",
+          "2": "29.68"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 30,
+        "frequency": 2,
+        "min": 29
+      },
+      {
+        "max": 7.6,
+        "frequency": 2,
+        "min": 5.6,
+        "name": "Height",
+        "instrumentId": "SM/SG/02  ",
+        "id": "aEaaL1K3SpfUkIcqb7dI_3",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "e0eMWkFgVGXDY6NxU9JF",
+        "samples": {
+          "0": "6.58",
+          "1": "6.63",
+          "2": "6.42"
+        },
+        "unit": "mm",
+        "type": "Range"
+      }
+    ],
+    "machine": "TWISTING ",
+    "inspectedAt": "2018-05-18T06:09:37.763Z"
+  },
+  {
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Pintu",
+    "timeTaken": 58,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "inspectionAt": "2018-05-18T10:45:54.325Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Upper wire conn. - 2.5 slot left",
+        "type": "OK - Not OK",
+        "id": "eAGRAgWoRACfKn8IEXMk_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      },
+      {
+        "id": "AQG75Zmf5mOBf1mY38uV_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T10:45:54.325Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Lower wire conn. - 2.5 slot right",
+        "type": "OK - Not OK"
+      },
+      {
+        "unit": "mm",
+        "type": "Range",
+        "max": 30,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T10:45:54.325Z",
+        "min": 29,
+        "name": "Shape ID",
+        "instrumentId": "SM/SG/04  ",
+        "id": "wScaklzvIo48mddp2bMc_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "WRK2mNJAX4EBoHXkFE20",
+        "samples": {
+          "0": "29.98",
+          "1": "29.87",
+          "2": "29.62"
+        }
+      },
+      {
+        "type": "Range",
+        "max": 7.6,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T10:45:54.325Z",
+        "min": 5.6,
+        "name": "Height",
+        "instrumentId": "SM/SG/02  ",
+        "id": "aEaaL1K3SpfUkIcqb7dI_3",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "SPECIAL GAUGE",
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV"
+          }
+        ],
+        "instrument": "e0eMWkFgVGXDY6NxU9JF",
+        "samples": {
+          "0": "6.81",
+          "1": "6.78",
+          "2": "6.68"
+        },
+        "unit": "mm"
+      }
+    ],
+    "machine": "TWISTING ",
+    "inspectedAt": "2018-05-18T10:34:45.348Z"
+  },
+  {
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Pappu",
+    "timeTaken": 11,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "instrumentId": "SM/SG/03  ",
+        "id": "kfSyb0Y9GUXnT4JG3iK4_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "2v0aQubAWnqJvPPZXwiu",
+        "samples": {
+          "0": "78.92",
+          "1": "78.93",
+          "2": "78.91"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 79,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T08:10:03.530Z",
+        "min": 78.8,
+        "name": "Comm. Press Height"
+      }
+    ],
+    "machine": "HYD. PN. PRESS - 1",
+    "inspectedAt": "2018-05-18T08:46:07.007Z",
+    "fpa": false,
+    "reasonFpa": null
+  },
+  {
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Pappu",
+    "timeTaken": 10,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "instrument": "2v0aQubAWnqJvPPZXwiu",
+        "samples": {
+          "0": "78.92",
+          "1": "78.93",
+          "2": "78.91"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 79,
+        "frequency": 2,
+        "min": 78.8,
+        "name": "Comm. Press Height",
+        "instrumentId": "SM/SG/03  ",
+        "id": "kfSyb0Y9GUXnT4JG3iK4_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ]
+      }
+    ],
+    "machine": "HYD. PN. PRESS - 1",
+    "inspectedAt": "2018-05-18T06:10:03.530Z",
+    "fpa": true
+  },
+  {
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Pappu",
+    "timeTaken": 10,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Comm. Press Height",
+        "instrumentId": "SM/SG/03  ",
+        "id": "kfSyb0Y9GUXnT4JG3iK4_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "2v0aQubAWnqJvPPZXwiu",
+        "samples": {
+          "0": "78.89",
+          "1": "78.93",
+          "2": "78.92"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 79,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T10:46:07.007Z",
+        "min": 78.8
+      }
+    ],
+    "machine": "HYD. PN. PRESS - 1",
+    "inspectedAt": "2018-05-18T10:34:58.583Z"
+  },
+  {
+    "machine": "MAGNET WIRE SQ- 01",
+    "inspectedAt": "2018-05-18T08:46:14.038Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Pappu",
+    "timeTaken": 5,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "type": "OK - Not OK",
+        "id": "j3MKDW3vyIOyYFnyVnnX_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T08:10:22.330Z",
+        "min": "   ",
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Insertion of Wires - Should fit properly in the commutator"
+      }
+    ]
+  },
+  {
+    "machine": "MAGNET WIRE SQ- 01",
+    "inspectedAt": "2018-05-18T06:10:22.330Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Pappu",
+    "timeTaken": 4,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "type": "OK - Not OK",
+        "id": "j3MKDW3vyIOyYFnyVnnX_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": "   ",
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Insertion of Wires - Should fit properly in the commutator"
+      }
+    ]
+  },
+  {
+    "machine": "MAGNET WIRE SQ- 01",
+    "inspectedAt": "2018-05-18T10:35:08.048Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Pappu",
+    "timeTaken": 4,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "type": "OK - Not OK",
+        "id": "j3MKDW3vyIOyYFnyVnnX_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T10:46:14.038Z",
+        "min": "   ",
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Insertion of Wires - Should fit properly in the commutator"
+      }
+    ]
+  },
+  {
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Uma",
+    "timeTaken": 15,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "HIGH VOLTAGE TESTER",
+            "instrumentGroupId": "iBrhUJOj1HfCVyVSlJAd"
+          }
+        ],
+        "instrument": "GGWQaWxQJfFZg4qdkjPY",
+        "samples": {
+          "0": "1025.00",
+          "1": "1042.00",
+          "2": "1031.00"
+        },
+        "unit": "Volts",
+        "type": "Range",
+        "max": 1050,
+        "frequency": 2,
+        "min": 1000,
+        "name": "Ground Short",
+        "instrumentId": "H.V.T-01",
+        "id": "LBXqvNWtfbbBbjU8bJpz_0"
+      }
+    ],
+    "machine": "HIGH VOLTAGE - 01",
+    "inspectedAt": "2018-05-18T06:10:55.511Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection."
+  },
+  {
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Umq",
+    "timeTaken": 3,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "instrumentId": "H.V.T-01",
+        "id": "LBXqvNWtfbbBbjU8bJpz_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "HIGH VOLTAGE TESTER",
+            "instrumentGroupId": "iBrhUJOj1HfCVyVSlJAd"
+          }
+        ],
+        "instrument": "GGWQaWxQJfFZg4qdkjPY",
+        "samples": {
+          "0": "1025.00",
+          "1": "1042.00",
+          "2": "1031.00"
+        },
+        "unit": "Volts",
+        "type": "Range",
+        "max": 1050,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T10:46:25.185Z",
+        "min": 1000,
+        "name": "Ground Short"
+      }
+    ],
+    "machine": "HIGH VOLTAGE - 01",
+    "inspectedAt": "2018-05-18T10:44:06.941Z",
+    "fpa": false
+  },
+  {
+    "inspectedAt": "2018-05-18T08:46:25.185Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Umq",
+    "timeTaken": 9,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Ground Short",
+        "instrumentId": "H.V.T-01",
+        "id": "LBXqvNWtfbbBbjU8bJpz_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "iBrhUJOj1HfCVyVSlJAd",
+            "instrumentGroupName": "HIGH VOLTAGE TESTER"
+          }
+        ],
+        "instrument": "GGWQaWxQJfFZg4qdkjPY",
+        "samples": {
+          "0": "1025.00",
+          "1": "1031.00",
+          "2": "1042.00"
+        },
+        "unit": "Volts",
+        "type": "Range",
+        "max": 1050,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T08:10:55.511Z",
+        "min": 1000
+      }
+    ],
+    "machine": "HIGH VOLTAGE - 01"
+  },
+  {
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Uma",
+    "timeTaken": 17,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "max": 1.9,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T08:11:29.363Z",
+        "min": 1.2,
+        "name": "Fusing Depth - 01",
+        "instrumentId": "SM/SG/11  ",
+        "id": "KbULSWf4xKVZRdayaJeh_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "AwcpLAn465o2rczuRROX",
+        "samples": {
+          "0": "1.52",
+          "1": "1.56",
+          "2": "1.53"
+        },
+        "unit": "mm",
+        "type": "Range"
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T08:11:29.363Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Marking - White colour marking Should be done on the armature assembly after fusing",
+        "type": "OK - Not OK",
+        "id": "IgWOfmU7uKptnuHEfwYg_1",
+        "max": null,
+        "frequency": 2
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T08:11:29.363Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Fusing should be aligned & Copper segments should not get damaged after fusing",
+        "type": "OK - Not OK",
+        "id": "YFQicRwUSmo8KZohUGNF_2",
+        "max": null,
+        "frequency": 2
+      }
+    ],
+    "machine": "FUSING - 01",
+    "inspectedAt": "2018-05-18T08:46:45.239Z",
+    "fpa": false
+  },
+  {
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Uma",
+    "timeTaken": 19,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "type": "Range",
+        "max": 1.9,
+        "frequency": 2,
+        "min": 1.2,
+        "name": "Fusing Depth - 01",
+        "instrumentId": "SM/SG/11  ",
+        "id": "KbULSWf4xKVZRdayaJeh_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "SPECIAL GAUGE",
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV"
+          }
+        ],
+        "instrument": "AwcpLAn465o2rczuRROX",
+        "samples": {
+          "0": "1.56",
+          "1": "1.42",
+          "2": "1.68"
+        },
+        "unit": "mm"
+      },
+      {
+        "name": "Marking - White colour marking Should be done on the armature assembly after fusing",
+        "type": "OK - Not OK",
+        "id": "IgWOfmU7uKptnuHEfwYg_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Fusing should be aligned & Copper segments should not get damaged after fusing",
+        "type": "OK - Not OK",
+        "id": "YFQicRwUSmo8KZohUGNF_2",
+        "max": null,
+        "frequency": 2
+      }
+    ],
+    "machine": "FUSING - 01",
+    "inspectedAt": "2018-05-18T06:11:29.363Z"
+  },
+  {
+    "machine": "FUSING - 01",
+    "inspectedAt": "2018-05-18T11:11:53.163Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Uma",
+    "timeTaken": 17,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Fusing Depth - 01",
+        "instrumentId": "SM/SG/11  ",
+        "id": "KbULSWf4xKVZRdayaJeh_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "SPECIAL GAUGE",
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV"
+          }
+        ],
+        "instrument": "AwcpLAn465o2rczuRROX",
+        "samples": {
+          "0": "1.56",
+          "1": "1.42",
+          "2": "1.53"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 1.9,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T10:46:45.239Z",
+        "min": 1.2
+      },
+      {
+        "name": "Marking - White colour marking Should be done on the armature assembly after fusing",
+        "type": "OK - Not OK",
+        "id": "IgWOfmU7uKptnuHEfwYg_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T10:46:45.239Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "name": "Appearance - Fusing should be aligned & Copper segments should not get damaged after fusing",
+        "type": "OK - Not OK",
+        "id": "YFQicRwUSmo8KZohUGNF_2",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T10:46:45.239Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ]
+  },
+  {
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "inspectionAt": "2018-05-18T10:47:02.624Z",
+        "min": 1.2,
+        "name": "Fusing Depth - 02",
+        "instrumentId": "SM/SG/11  ",
+        "id": "c2ZYPrETNSaRAUvdXXZL_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "AwcpLAn465o2rczuRROX",
+        "samples": {
+          "0": "1.45",
+          "1": "1.52",
+          "2": "1.46"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 1.9,
+        "frequency": 2
+      },
+      {
+        "name": "Marking - Blue colour marking Should be done on the armature assembly after fusing",
+        "type": "OK - Not OK",
+        "id": "0JM7mYYUTf2uFkPaENDo_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T10:47:02.624Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "id": "YFQicRwUSmo8KZohUGNF_2",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T10:47:02.624Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Fusing should be aligned & Copper segments should not get damaged after fusing",
+        "type": "OK - Not OK"
+      }
+    ],
+    "machine": "FUSING - 02",
+    "inspectedAt": "2018-05-18T11:12:13.032Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Uma",
+    "timeTaken": 15,
+    "rejectionCount": 0
+  },
+  {
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Uma",
+    "timeTaken": 15,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Fusing Depth - 02",
+        "instrumentId": "SM/SG/11  ",
+        "id": "c2ZYPrETNSaRAUvdXXZL_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "AwcpLAn465o2rczuRROX",
+        "samples": {
+          "0": "1.68",
+          "1": "1.42",
+          "2": "1.56"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 1.9,
+        "frequency": 2,
+        "inspectionAt": "2018-05-18T08:12:05.765Z",
+        "min": 1.2
+      },
+      {
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T08:12:05.765Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Marking - Blue colour marking Should be done on the armature assembly after fusing",
+        "type": "OK - Not OK",
+        "id": "0JM7mYYUTf2uFkPaENDo_1",
+        "max": null
+      },
+      {
+        "name": "Appearance - Fusing should be aligned & Copper segments should not get damaged after fusing",
+        "type": "OK - Not OK",
+        "id": "YFQicRwUSmo8KZohUGNF_2",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T08:12:05.765Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "FUSING - 02",
+    "inspectedAt": "2018-05-18T08:47:02.624Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma"
+  },
+  {
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Uma",
+    "timeTaken": 21,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "unit": "mm",
+        "type": "Range",
+        "max": 1.9,
+        "frequency": 2,
+        "min": 1.2,
+        "name": "Fusing Depth - 02",
+        "instrumentId": "SM/SG/11  ",
+        "id": "c2ZYPrETNSaRAUvdXXZL_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "AwcpLAn465o2rczuRROX",
+        "samples": {
+          "0": "1.68",
+          "1": "1.43",
+          "2": "1.61"
+        }
+      },
+      {
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Marking - Blue colour marking Should be done on the armature assembly after fusing",
+        "type": "OK - Not OK",
+        "id": "0JM7mYYUTf2uFkPaENDo_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      },
+      {
+        "name": "Appearance - Fusing should be aligned & Copper segments should not get damaged after fusing",
+        "type": "OK - Not OK",
+        "id": "YFQicRwUSmo8KZohUGNF_2",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "FUSING - 02",
+    "inspectedAt": "2018-05-18T06:12:05.765Z",
+    "fpa": true
+  },
+  {
+    "timeTaken": 5,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "id": "hhW6zixL7yAqP8EKn7Dg_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Free From Scratches or any other visual defects",
+        "type": "OK - Not OK"
+      }
+    ],
+    "machine": "POLISHING - 01 ",
+    "inspectedAt": "2018-05-18T06:12:41.262Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Balkrishn"
+  },
+  {
+    "machine": "POLISHING - 01 ",
+    "inspectedAt": "2018-05-18T08:47:11.305Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Balkrishn",
+    "timeTaken": 4,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "inspectionAt": "2018-05-18T08:12:41.262Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Free From Scratches or any other visual defects",
+        "type": "OK - Not OK",
+        "id": "hhW6zixL7yAqP8EKn7Dg_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Varsha",
+    "timeTaken": 69,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "min": 0,
+        "name": "Dynamic Unbalance - LEFT",
+        "instrumentId": "AS/BMP/01",
+        "id": "0D8V7AJRLi1OWnfougqL_0",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "rjFBCXfgesAIMUcubLO9",
+            "instrumentGroupName": "BALANCING MACHINE PANEL"
+          }
+        ],
+        "instrument": "EMBAdL7FzF3mSaOrqtaQ",
+        "samples": {
+          "0": "29.00",
+          "1": "35.00",
+          "2": "25.00"
+        },
+        "unit": "mg",
+        "type": "Range",
+        "max": 100,
+        "frequency": 2
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "rjFBCXfgesAIMUcubLO9",
+            "instrumentGroupName": "BALANCING MACHINE PANEL"
+          }
+        ],
+        "instrument": "EMBAdL7FzF3mSaOrqtaQ",
+        "samples": {
+          "0": "11.00",
+          "1": "26.00",
+          "2": "42.00"
+        },
+        "unit": "mg",
+        "type": "Range",
+        "max": 100,
+        "frequency": 2,
+        "min": 0,
+        "name": "Dynamic Unbalance - RIGHT",
+        "instrumentId": "AS/BMP/01",
+        "id": "WGJBBEza0WHZzIkYzAW7_1"
+      },
+      {
+        "unit": "mg",
+        "type": "Range",
+        "max": 110,
+        "frequency": 2,
+        "min": 0,
+        "name": "Static Unbalance",
+        "instrumentId": "AS/BMP/01",
+        "id": "IMJ1zxbdyEordjLw436z_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "BALANCING MACHINE PANEL",
+            "instrumentGroupId": "rjFBCXfgesAIMUcubLO9"
+          }
+        ],
+        "instrument": "EMBAdL7FzF3mSaOrqtaQ",
+        "samples": {
+          "0": "56.00",
+          "1": "42.00",
+          "2": "31.00"
+        }
+      },
+      {
+        "unit": "mm",
+        "type": "Range",
+        "max": 1.5,
+        "frequency": 2,
+        "min": 0,
+        "name": "Milling Cut Depth",
+        "instrumentId": "AS/DHG/01",
+        "id": "mVl9uLARPGfWvDkzfkkC_3",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "6JGyIVlaOfsjEinRfTZd",
+            "instrumentGroupName": "HEIGHT GAUGE"
+          }
+        ],
+        "instrument": "ymx8jOj7o4YkBEwY3s7P",
+        "samples": {
+          "0": "1.25",
+          "1": "1.08",
+          "2": "1.12"
+        }
+      },
+      {
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "1.12",
+          "1": "1.25",
+          "2": "1.36"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 1.6,
+        "frequency": 2,
+        "min": "0.80 ±0.05",
+        "name": "Cutting Position",
+        "instrumentId": "AS/DGV-11",
+        "id": "KZRqZ6hFiLresIhecIHM_4",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ]
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Marking - Operator should visually check Yellow / White colour Automarking should be availble on Armature Assy on Copper coil.",
+        "type": "OK - Not OK",
+        "id": "gcnJ133cVu7YCBv9gZYW_5",
+        "max": null,
+        "frequency": 2
+      }
+    ],
+    "machine": "AUTO BALANCING - 01",
+    "inspectedAt": "2018-05-18T06:14:22.894Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection."
+  },
+  {
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Balkrishn",
+    "timeTaken": 8,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Appearance - Free From Scratches or any other visual defects",
+        "type": "OK - Not OK",
+        "id": "hhW6zixL7yAqP8EKn7Dg_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Shaft Armature Dia - 12.0 +0.011",
+        "type": "OK - Not OK",
+        "id": "6KUECtol3fuPlolSerWQ_1",
+        "max": null
+      }
+    ],
+    "machine": "POLISHING - 01 ",
+    "inspectedAt": "2018-05-18T06:26:25.005Z",
+    "fpa": true
+  },
+  {
+    "inspectedAt": "2018-05-18T06:27:54.553Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Chandrasekh",
+    "timeTaken": 63,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Slitting should be free from cutting overlap , burr and not allowed on copper",
+        "type": "OK - Not OK",
+        "id": "dN2EtI5tO0JFay5I4Qmj_0",
+        "max": null,
+        "frequency": 2
+      },
+      {
+        "name": "Resin Appearance - Resin material should not be available  on both sides  of the slit",
+        "type": "OK - Not OK",
+        "id": "WkDI3OkRHAhSTv1RGzzx_1",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "WRK2mNJAX4EBoHXkFE20",
+        "samples": {
+          "0": "12.00",
+          "1": "12.00",
+          "2": "12.01"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 12.011,
+        "frequency": 2,
+        "min": 12,
+        "name": "Shaft Armature Dia -",
+        "instrumentId": "SM/SG/04  ",
+        "id": "K3ff6Y1PUIVnbPtwywwv_2"
+      },
+      {
+        "max": 16.5,
+        "frequency": 2,
+        "min": 15.5,
+        "name": "Slit Length",
+        "instrumentId": "AS/DGV-11",
+        "id": "sddbyocNIU51lvSsdSMd_3",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupName": "VERNIER CALIPER",
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "16.15",
+          "1": "16.08",
+          "2": "16.11"
+        },
+        "unit": "mm",
+        "type": "Range"
+      },
+      {
+        "instrumentId": "SM/SG/11  ",
+        "id": "2WLIurC5OIl78oICa13O_4",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "AwcpLAn465o2rczuRROX",
+        "samples": {
+          "0": "0.46",
+          "1": "0.42",
+          "2": "0.45"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 0.5,
+        "frequency": 2,
+        "min": 0.4,
+        "name": "Slit Depth"
+      },
+      {
+        "type": "Range",
+        "max": 0.85,
+        "frequency": 2,
+        "min": 0.75,
+        "name": "Slit Width",
+        "instrumentId": "SM/SG/09  ",
+        "id": "5nTwKGmnv4haSHox6KjW_5",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "L3JzKTgZ3vZzlrjycwtf",
+        "samples": {
+          "0": "0.78",
+          "1": "0.77",
+          "2": "0.78"
+        },
+        "unit": "mm"
+      },
+      {
+        "name": "Marking - Pink marking to be done on Comm. Riser OD-after visual check",
+        "type": "OK - Not OK",
+        "id": "JwYirH4ZCZgAcwyyeHsE_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "SLITTING - 01"
+  },
+  {
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Chandrasekh",
+    "timeTaken": 63,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Appearance - Slitting should be free from cutting overlap , burr and not allowed on copper",
+        "type": "OK - Not OK",
+        "id": "dN2EtI5tO0JFay5I4Qmj_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      },
+      {
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Resin Appearance - Resin material should not be available  on both sides  of the slit",
+        "type": "OK - Not OK",
+        "id": "WkDI3OkRHAhSTv1RGzzx_1",
+        "max": null
+      },
+      {
+        "frequency": 2,
+        "min": 12,
+        "name": "Shaft Armature Dia -",
+        "instrumentId": "SM/SG/04  ",
+        "id": "K3ff6Y1PUIVnbPtwywwv_2",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "WRK2mNJAX4EBoHXkFE20",
+        "samples": {
+          "0": "12.00",
+          "1": "12.01",
+          "2": "12.01"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 12.011
+      },
+      {
+        "type": "Range",
+        "max": 16.5,
+        "frequency": 2,
+        "min": 15.5,
+        "name": "Slit Length",
+        "instrumentId": "AS/DGV-11",
+        "id": "sddbyocNIU51lvSsdSMd_3",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "d3hiyV8KidnEArrqq14w",
+            "instrumentGroupName": "VERNIER CALIPER"
+          }
+        ],
+        "instrument": "FKykGlWNPvfJrnRfILVS",
+        "samples": {
+          "0": "15.89",
+          "1": "16.01",
+          "2": "16.03"
+        },
+        "unit": "mm"
+      },
+      {
+        "type": "Range",
+        "max": 0.5,
+        "frequency": 2,
+        "min": 0.4,
+        "name": "Slit Depth",
+        "instrumentId": "SM/SG/11  ",
+        "id": "2WLIurC5OIl78oICa13O_4",
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "AwcpLAn465o2rczuRROX",
+        "samples": {
+          "0": "0.45",
+          "1": "0.42",
+          "2": "0.42"
+        },
+        "unit": "mm"
+      },
+      {
+        "sampleCount": 3,
+        "note": "",
+        "instruments": [
+          {
+            "instrumentGroupId": "E43FVC77NDpImgEtRXKV",
+            "instrumentGroupName": "SPECIAL GAUGE"
+          }
+        ],
+        "instrument": "L3JzKTgZ3vZzlrjycwtf",
+        "samples": {
+          "0": "0.77",
+          "1": "0.77",
+          "2": "0.78"
+        },
+        "unit": "mm",
+        "type": "Range",
+        "max": 0.85,
+        "frequency": 2,
+        "min": 0.75,
+        "name": "Slit Width",
+        "instrumentId": "SM/SG/09  ",
+        "id": "5nTwKGmnv4haSHox6KjW_5"
+      },
+      {
+        "name": "Marking -Blue marking to be done on Comm. Riser OD-after visual check",
+        "type": "OK - Not OK",
+        "id": "j4aXjDhEJIHSXwKekZPk_6",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "SLITTING - 02",
+    "inspectedAt": "2018-05-18T06:29:18.537Z",
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma"
+  },
+  {
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T11:14:13.566Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Coating on the Armature Assembly should be uniform and as per limit samples",
+        "type": "OK - Not OK",
+        "id": "dBw9xbT3IDeTh71f11TY_0",
+        "max": null
+      }
+    ],
+    "machine": "COATING",
+    "inspectedAt": "2018-05-18T11:11:31.337Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Rattan",
+    "timeTaken": 8,
+    "rejectionCount": 0
+  },
+  {
+    "timeTaken": 7,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "name": "Appearance - Coating on the Armature Assembly should be uniform and as per limit samples",
+        "type": "OK - Not OK",
+        "id": "dBw9xbT3IDeTh71f11TY_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "inspectionAt": "2018-05-18T09:22:55.911Z",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        }
+      }
+    ],
+    "machine": "COATING",
+    "inspectedAt": "2018-05-18T09:14:13.566Z",
+    "fpa": false,
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Rattan"
+  },
+  {
+    "fpa": true,
+    "reasonFpa": "Beginning of Inspection.",
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Rattan",
+    "timeTaken": 7,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [
+      {
+        "id": "dBw9xbT3IDeTh71f11TY_0",
+        "max": null,
+        "frequency": 2,
+        "sampleCount": 3,
+        "note": "",
+        "min": null,
+        "samples": {
+          "0": "OK",
+          "1": "OK",
+          "2": "OK"
+        },
+        "name": "Appearance - Coating on the Armature Assembly should be uniform and as per limit samples",
+        "type": "OK - Not OK"
+      }
+    ],
+    "machine": "COATING",
+    "inspectedAt": "2018-05-18T07:22:55.911Z"
+  },
+  {
+    "reasonFpa": null,
+    "userName": "Hari Om Sharma",
+    "uid": "2dWDKHUO8vgH9SBCjVs51KEaHqI3",
+    "operator": "Uma",
+    "timeTaken": 16,
+    "rejectionCount": 0,
+    "badInstanceCheckpoint": {},
+    "checkpoints": [],
+    "machine": "HIGH VOLTAGE - 01",
+    "inspectedAt": "2018-05-18T10:44:29.750Z",
+    "fpa": true
+  }
+]
